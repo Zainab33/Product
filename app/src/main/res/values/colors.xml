@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c74ca2</color>
+    <color name="colorPrimaryDark">#c652af</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="saleCircule">#cdf958bb</color>
+    <color name="gray">#AEB6BD</color>
+    <color name="decrement">#d2ef9171</color>
+    <color name="increment">#c8ff2f63</color>
+    <color name="black">#000000</color>
+</resources>
